@@ -1,0 +1,12 @@
+.Posicion1{
+    position: relative;
+    top: 25px;
+}
+
+.possa {
+    width: 50%;
+    height: 50%;
+    position: relative;
+    left: 30px;
+    bottom: 500px;
+}
