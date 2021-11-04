@@ -259,3 +259,19 @@
     left: 1200px;
     bottom: 8280px;
 }
+
+.posorg2 {
+    width: 50%;
+    height: 50%;
+    position: relative;
+    left: 400px;
+    bottom: 8970px;
+}
+
+.posorg3 {
+    width: 50%;
+    height: 50%;
+    position: relative;
+    left: 596px;
+    bottom: 8930px;
+}
