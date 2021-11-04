@@ -13,6 +13,7 @@
 }
 
 .posf2 {
+    z-index: 3;
     display: block ;
     position: relative;
     left: 150px;
@@ -20,98 +21,101 @@
 }
 
 .posf3 {
-    display: block ;
-    position: relative;
+    z-index: 4;
+    font-display: block ;
+    position:relative ;
     left: 220px;
     bottom: 1100px;
 }
 
-.posf4 {
-    display: block ;
+.posf4 { 
+    z-index: 5;
+    font-display: block ;
     position: relative;
     left: 290px;
     bottom: 1405px;
 }
 
 .posf5 {
-    display: block ;
+    z-index: 6;
+    font-display: block ;
     position: relative;
     left: 360px;
     bottom: 1710px;
 }
 
 .posf6 {
-    display: block ;
+    font-display: block ;
     position: relative;
     left: 430px;
     bottom: 2015px;
 }
 
 .posf7 {
-    display: block ;
+    font-display: block ;
     position: relative;
     left: 500px;
     bottom: 2320px;
 }
 
 .posf8  {
-    display: block ;
+    font-display: block ;
     position: relative;
     left: 570px;
     bottom: 2600px;
 }
 
 .posf9 {
-    display: block ;
+    font-display: block ;
     position: relative;
     left: 640px;
     bottom: 2880px;
 }
 
 .posf10 {
-    display: block ;
+    font-display: block ;
     position: relative;
     left: 710px;
     bottom: 3160px;
 }
 
 .posf11 {
-    display: block ;
+    font-display: block ;
     position: relative;
     left: 780px;
     bottom: 3465px;
 }
 
 .posf12 {
-    display: block ;
+    font-display: block ;
     position: relative;
     left: 850px;
     bottom: 3770px;
 }
 
 .posf13 {
-    display: block ;
+    font-display: block ;
     position: relative;
     left: 920px;
     bottom: 4211px;
 }
 
 .posf14 {
-    display: block ;
+    font-display: block ;
     position: relative;
     left: 990px;
     bottom: 4654px;
 }
 
 .posf15 {
-    display: block ;
+    font-display: block ;
     position: relative;
     left: 1060px;
     bottom: 5097px;
 }
 
 .posf16 {
-    display: block ;
+    font-display: block ;
     position: relative;
     left: 1130px;
     bottom: 5540px;
@@ -125,8 +129,9 @@
 }
 
 .posf18 {
-    display: block ;
+    font-display: block ;
     position: relative;
+    z-index: 10;
     left: 1270px;
     bottom: 6495px;
 }
@@ -135,110 +140,111 @@
     display: block ;
     position: relative;
     left: 290px;
-    bottom: 6465px;
+    bottom: 6365px;
 }
 
 .posf20 {
     display: block ;
     position: relative;
     left: 360px;
-    bottom: 6604px;
+    bottom: 6504px;
 }
 
 .posf21 {
     display: block ;
     position: relative;
     left: 430px;
-    bottom: 6745px;
+    bottom: 6645px;
 }
 
 .posf22 {
     display: block ;
     position: relative;
     left: 500px;
-    bottom: 6883px;
+    bottom: 6783px;
 }
 
 .posf23  {
     display: block ;
     position: relative;
     left: 570px;
-    bottom: 7022px;
+    bottom: 6922px;
 }
 
 .posf24 {
     display: block ;
     position: relative;
     left: 640px;
-    bottom: 7162px;
+    bottom: 7062px;
 }
 
 .posf25 {
     display: block ;
     position: relative;
     left: 710px;
-    bottom: 7301px;
+    bottom: 7201px;
 }
 
 .posf26 {
     display: block ;
     position: relative;
     left: 780px;
-    bottom: 7440px;
+    bottom: 7340px;
 }
 
 .posf27 {
     display: block ;
     position: relative;
     left: 850px;
-    bottom: 7579px;
+    bottom: 7479px;
 }
 
 .posf28 {
     display: block ;
     position: relative;
     left: 920px;
-    bottom: 7720px;
+    bottom: 7620px;
 }
 
 .posf29 {
     display: block ;
     position: relative;
     left: 990px;
-    bottom: 7860px;
+    bottom: 7760px;
 }
 
 .posf30 {
     display: block ;
     position: relative;
     left: 1060px;
-    bottom: 8000px;
+    bottom: 7900px;
 }
 
 .posf31 {
     display: block ;
     position: relative;
     left: 1130px;
-    bottom: 8140px;
+    bottom: 8040px;
 }
  
 .posf32 {
     display: block ;
     position: relative;
     left: 1200px;
-    bottom: 8280px;
+    bottom: 8180px;
 }
 
 .posorg2 {
     display: block ;
     position: relative;
     left: 400px;
-    bottom: 8970px;
+    bottom: 8870px;
 }
 
 .posorg3 {
     display: block ;
     position: relative;
     left: 596px;
-    bottom: 8930px;
+    bottom: 8860px;
 }
+
